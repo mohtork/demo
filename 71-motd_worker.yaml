@@ -12,6 +12,7 @@ spec:
       files:
         - path: /etc/motd
           mode: 0444
+          filesystem: root
           overwrite: true
           user:
             name: root
