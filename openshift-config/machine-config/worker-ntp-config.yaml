@@ -14,5 +14,4 @@ spec:
         filesystem: root
         mode: 0644
         contents:
-          source: data:,cG9vbCAwLnJoZWwucG9vbC5udHAub3JnIGlidXJzdAo=
-          #source: data:text/plain;charset=utf-8;base64,cG9vbCAwLnJoZWwucG9vbC5udHAub3JnIGlidXJzdAo=
+          source: data:text/plain;charset=utf-8;base64,cG9vbCAwLnJoZWwucG9vbC5udHAub3JnIGlidXJzdAo=
