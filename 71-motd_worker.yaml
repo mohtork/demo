@@ -19,5 +19,4 @@ spec:
           group:
             name: root
           contents:
-            source: data:text/plain;charset=utf-8;base64,VGhlIHByb2dyYW1zIGluY2x1ZGVkIHdpdGggdGhlIERlYmlhbiBHTlUvTGludXggc3lzdGVtIGFyZSBmcmVlIHNvZnR3YXJlOgp0aGUgZXhhY3QgZGlzdHJpYnV0aW9uIHRlcm1zIGZvciBlYWNoIHByb2dyYW0gYXJlIGRlc2NyaWJlZCBpbiB0aGUKaW5kaXZpZHVhbCBmaWxlcyBpbiAvdXNyL3NoYXJlL2RvYy8qL2NvcHlyaWdodC4KCkRlYmlhbiBHTlUvTGludXggY29tZXMgd2l0aCBBQlNPTFVURUxZIE5PIFdBUlJBTlRZLCB0byB0aGUgZXh0ZW50CnBlcm1pdHRlZCBieSBhcHBsaWNhYmxlIGxhdy4K
-
+            source: data:text/plain;charset=utf-8;base64,IF9fXyAgX19fXyAgX19fXyAgX18gIF9fXwogLyBfIFwvIF9fIFwvIF9fIFwvICB8LyAgLwovICBfXy8gL18vIC8gLyAvIC8gL3xfLyAvIApcX19fL1xfX19fL18vIC9fL18vICAvXy8gIAoKV2VsY29tZSB0byB0aGUgTm9kZSEK
